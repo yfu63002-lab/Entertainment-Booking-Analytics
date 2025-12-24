@@ -1,4 +1,6 @@
-## Project Overview
+# Entertainment Booking Analytics
+
+##、## Project Overv
 This project analyzes an entertainment booking database to uncover business insights related to agent performance, customer behavior, entertainer profitability, and seasonal revenue patterns. The analysis was completed as part of an MSBA coursework project and focuses on applying SQL to real-world business questions using a relational database.
 
 The project demonstrates end-to-end analytical thinking, including data quality validation, exploratory analysis, and insight-driven recommendations.
