@@ -86,14 +86,14 @@ These checks ensured that downstream analysis was based on clean and trustworthy
 
 ## Project Structure
 Entertainment-Booking-Analytics/
-├── README.md
-├── sql/
-│ ├── schema.sql
-│ ├── data_quality.sql
-│ ├── agent_analysis.sql
-│ ├── customer_market_analysis.sql
-│ ├── entertainer_analysis.sql
-│ └── seasonality.sql
+README.md
+sql/
+schema.sql
+data_quality.sql
+agent_analysis.sql
+customer_market_analysis.sql
+entertainer_analysis.sql
+seasonality.sql
 
 ## Business Impact & Recommendations
 Key recommendations derived from the analysis include:
