@@ -11,14 +11,6 @@ This project analyzes an entertainment booking database to generate business ins
 - Use of **Python (pandas, matplotlib)** for data cleaning and exploratory analysis
 - Translation of data results into **business insights and recommendations**
 
----
-
-## Project Structure
-Entertainment-Booking-Analytics/
-README.md
-sql/ # SQL queries for data quality checks and analysis
-python/ # Python notebooks for data preparation and visualization
-
 
 ---
 
