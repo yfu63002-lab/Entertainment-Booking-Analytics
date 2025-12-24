@@ -24,25 +24,6 @@ The core schema follows a relational design centered around the `Engagements` ta
 
 Primary and foreign key constraints ensure referential integrity across all tables.
 
----
-
-## Data Preparation & Quality Checks
-Before analysis, data quality was evaluated to ensure reliability of insights:
-
-- **Missing Values**  
-  - Missing values were limited to optional attributes (e.g., entertainer email, webpage, member gender).
-  - No critical identifiers contained missing values.
-
-- **Duplicate Records**  
-  - Duplicate checks confirmed no duplicated customers, entertainers, or engagement records based on business keys.
-
-- **Inconsistent Values**  
-  - Identified engagements with invalid time ranges (stop time earlier than start time).
-  - Flagged unrealistic engagement durations for further review.
-
-These checks ensured that downstream analysis was based on clean and trustworthy data.
-
----
 
 ## Key Analyses
 
