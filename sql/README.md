@@ -85,3 +85,33 @@ These checks ensured that downstream analysis was based on clean and trustworthy
 ---
 
 ## Project Structure
+Entertainment-Booking-Analytics/
+├── README.md
+├── sql/
+│ ├── schema.sql
+│ ├── data_quality.sql
+│ ├── agent_analysis.sql
+│ ├── customer_market_analysis.sql
+│ ├── entertainer_analysis.sql
+│ └── seasonality.sql
+
+## Business Impact & Recommendations
+Key recommendations derived from the analysis include:
+
+- Prioritize high-margin entertainers with strong revenue potential but low booking frequency
+- Address non-performing agents and anomalous compensation records
+- Diversify entertainer offerings to reduce dependency on top performers
+- Target under-served markets and cities with high customer demand
+- Leverage seasonality insights for pricing and staffing strategies
+
+---
+
+## Tools & Technologies
+- **SQL (PostgreSQL syntax)**
+- Relational database design
+- Google Colab (for visualization and extended analysis)
+
+---
+
+## Author
+This project was completed as part of an MSBA program to demonstrate SQL-driven data analysis and business insight generation.
